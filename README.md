@@ -1,5 +1,5 @@
-### Hi there 👋, Vinith Kumar G P
-#### A passionate developer
+// ### Hi there 👋, Vinith Kumar G P
+// #### A passionate developer
 
 
 <h1 align="center">Hi 👋, I'm Vinith Kumar G P</h1>

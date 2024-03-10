@@ -1,3 +1,18 @@
+### Hi there 👋, Vinith Kumar G P
+#### A passionate developer
+![A passionate developer](https://media.licdn.com/dms/image/D4E16AQFK6tB5T82Cww/profile-displaybackgroundimage-shrink_350_1400/0/1710105085087?e=1715817600&v=beta&t=KV7bv7L1NLO2pEucCXP-MK4fhJdPwJMPSih9V16ZFcI)
+
+Hi! I'm Vinith, an aspiring software engineer - Python and data analyst who enjoys connecting the dots: ideas from different disciplines, people from different teams, or applications from different industries. I'm an outcome-driven professional eager to succeed in the development and problem-solving fields. Using customized data and algorithms to solve business problems is my passion. 
+
+Skills: Python / Machine Learning / Django /  MySQL / HTML 5 / CSS 3 / JavaScript
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Vinith Kumar G P</h1>
 <h3 align="center">A passionate developer</h3>
 

@@ -1,6 +1,3 @@
-
-
-
 <!-- <h1 align="center">Hi 👋, I'm Vinith Kumar G P</h1>
 <h2 align="center">A passionate developer</h2> -->
 

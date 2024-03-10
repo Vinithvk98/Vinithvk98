@@ -7,11 +7,12 @@
 
 I'm , an aspiring Python Developer and Data Analyst who enjoys connecting the dots: ideas from different disciplines, people from different teams, or applications from different industries. I'm an outcome-driven professional eager to succeed in the development and problem-solving fields. Using customized data and algorithms to solve business problems is my passion. 
 
+
+
+## Skills and Experience 
 <p align="right">
   <img width="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Your GIF Alt Text">
 </p>
-
-## Skills and Experience 
 * 🐍 Languages : Python, R
 * 🚀 Technologies : Machine Learning and AI,Data Analytics, Deep Learning
 * 💻 Scripting : HTML 5 , CSS 3 , JavaScript

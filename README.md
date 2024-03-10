@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vinith Kumar G P</h1>
-<h3 align="center">A passionate developer</h3>
+<h2 align="center">A passionate developer</h2>
 
 ![A passionate developer](https://media.licdn.com/dms/image/D4E16AQFK6tB5T82Cww/profile-displaybackgroundimage-shrink_350_1400/0/1710105085087?e=1715817600&v=beta&t=KV7bv7L1NLO2pEucCXP-MK4fhJdPwJMPSih9V16ZFcI)
 

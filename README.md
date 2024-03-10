@@ -15,14 +15,7 @@ I'm , an aspiring Python Developer and Data Analyst who enjoys connecting the do
 * 🛢️ Databases : SQL, MongoDB, PostgreSQL
 * 🌐 Web Frameworks : Django , REST APIs
   
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF Alignment</title>
-</head>
-<body>
+
 
 <p style="text-align: right;">
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3HSl6G_d6P0FMRXsx14Lro&ust=1710194897119000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCUhs3a6oQDFQAAAAAdAAAAABAJ" alt="Your GIF Description" style="float: right;">

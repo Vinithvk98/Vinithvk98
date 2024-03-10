@@ -18,17 +18,7 @@ I'm , an aspiring Python Developer and Data Analyst who enjoys connecting the do
 * 🛢️ Databases : SQL, MongoDB, PostgreSQL
 * 🌐 Web Frameworks : Django , REST APIs
 
-Skills: Python / Machine Learning / Django /  MySQL / HTML 5 / CSS 3 / JavaScript
 
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Vinith Kumar G P</h1>
-<h3 align="center">A passionate developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://vinithvk98.github.io/vinithkumar.github.io/](https://vinithvk98.github.io/vinithkumar.github.io/)
 

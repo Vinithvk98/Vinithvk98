@@ -9,7 +9,7 @@ I'm , an aspiring Python Developer and Data Analyst who enjoys connecting the do
 
 ## Skills and Experience
 
-* 🐍 Languages : Python, R
+* 🐍 **Languages** : Python, R
 * 🚀 Technologies : Machine Learning and AI, Data Analytics, Deep Learning
 * 💻 Scripting : HTML 5, CSS 3, JavaScript
 * 🔧 Tools and Platforms :  Power BI, SPSS, Tableau, GitHub

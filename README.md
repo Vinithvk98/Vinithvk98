@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Vinith Kumar G P</h1>
 <h2 align="center">A passionate developer</h2> -->
 
-![A passionate developer](https://github.com/Vinithvk98/Vinithvk98/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
+![A passionate developer] (https://github.com/Vinithvk98/Vinithvk98/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
 
 # Vinith Kumar G P
 

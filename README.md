@@ -7,6 +7,11 @@
 
 I'm , an aspiring Python Developer and Data Analyst who enjoys connecting the dots: ideas from different disciplines, people from different teams, or applications from different industries. I'm an outcome-driven professional eager to succeed in the development and problem-solving fields. Using customized data and algorithms to solve business problems is my passion. 
 
+## Connect Me On 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinithvk98)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vinithkumarportfolio-788f6.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinith-kumar-g-p/)
+
 ## 🚀 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

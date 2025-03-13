@@ -47,4 +47,7 @@ I'm , an aspiring Python Developer and Data Analyst who enjoys connecting the do
 
 ![Vinith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinithvk98&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinithvk98&layout=compact&theme=radical)
+
+
 

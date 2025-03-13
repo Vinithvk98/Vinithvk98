@@ -45,7 +45,11 @@ I'm , an aspiring Python Developer and Data Analyst who enjoys connecting the do
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+## 📊 GitHub Stats Card
+
 ![Vinith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinithvk98&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinithvk98&layout=compact&theme=radical)
 

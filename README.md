@@ -81,14 +81,7 @@ model.generate(
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vinithvk98&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=00d4ff&text_color=8b949e&ring_color=a855f7&v=2" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinithvk98&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=8b949e&v=2" height="165" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Vinithvk98&hide_border=true&background=0d1117&ring=00ffa3&fire=00d4ff&currStreakLabel=00ffa3&sideLabels=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&v=2" height="165" alt="Streak" />
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/Vinithvk98/Vinithvk98/main/github-metrics.svg" width="100%" alt="GitHub metrics" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinithvk98&bg_color=0d1117&color=00ffa3&line=a855f7&point=00d4ff&area=true&hide_border=true" width="100%" alt="Activity graph" />
 

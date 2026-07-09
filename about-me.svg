@@ -1,0 +1,92 @@
+<svg viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Monaco, monospace">
+  <rect width="900" height="400" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <rect width="900" height="34" rx="12" fill="#161b22"/>
+  <rect y="22" width="900" height="12" fill="#161b22"/>
+  <circle cx="24" cy="17" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="17" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="17" r="6" fill="#28c840"/>
+  <text x="450" y="22" text-anchor="middle" font-size="12" fill="#8b949e">vinith_os — identity module</text>
+
+  <rect x="24" y="52" width="240" height="324" rx="8" fill="#10151d" stroke="#30363d" stroke-width="1"/>
+
+  <circle cx="144" cy="180" r="62" fill="none" stroke="#a855f7" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="r" values="62;66;62" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.25;0.6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="144" cy="180" r="44" fill="none" stroke="#00d4ff" stroke-width="1.5" stroke-dasharray="8 6">
+    <animateTransform attributeName="transform" type="rotate" from="0 144 180" to="360 144 180" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="144" cy="180" r="18" fill="#00ffa3" opacity="0.9">
+    <animate attributeName="r" values="18;21;18" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0.5;0.9" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="144" cy="180" r="8" fill="#0d1117"/>
+  <circle cx="144" cy="180" r="4" fill="#00ffa3">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  <g>
+    <circle cx="144" cy="118" r="5" fill="#00d4ff"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 144 180" to="360 144 180" dur="6s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <circle cx="144" cy="242" r="4" fill="#a855f7"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 144 180" to="-360 144 180" dur="8s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <circle cx="82" cy="180" r="3" fill="#00ffa3"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 144 180" to="360 144 180" dur="4.5s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="144" y="290" text-anchor="middle" font-size="16" font-weight="bold" fill="#e6edf3">vinith.exe</text>
+  <text x="144" y="312" text-anchor="middle" font-size="11" fill="#8b949e">AI Engineer · Data Scientist</text>
+  <text x="144" y="330" text-anchor="middle" font-size="11" fill="#8b949e">Python · Agentic AI · MLOps</text>
+  <text x="144" y="356" text-anchor="middle" font-size="11" fill="#00ffa3">identity loaded ✓<animate attributeName="opacity" values="1;0.4;1" dur="2.5s" repeatCount="indefinite"/></text>
+
+  <g font-size="13">
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="0.3s" dur="0.6s" fill="freeze"/>
+      <text x="292" y="86" fill="#00d4ff">🎯 mission</text>
+      <text x="292" y="106" fill="#c9d1d9">Ship AI systems that turn messy data into decisions</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="0.9s" dur="0.6s" fill="freeze"/>
+      <text x="292" y="134" fill="#a855f7">🧠 brain runs on</text>
+      <text x="292" y="154" fill="#c9d1d9">Python · FastAPI · LangGraph · RAG · AWS · SQL</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="1.5s" dur="0.6s" fill="freeze"/>
+      <text x="292" y="182" fill="#00ffa3">📈 xp earned</text>
+      <text x="292" y="202" fill="#c9d1d9">5+ years — Python, data &amp; production AI engineering</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="2.1s" dur="0.6s" fill="freeze"/>
+      <text x="292" y="230" fill="#e0af68">⚡ superpower</text>
+      <text x="292" y="250" fill="#c9d1d9">Taking agentic AI from prototype to production</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="2.7s" dur="0.6s" fill="freeze"/>
+      <text x="292" y="278" fill="#00d4ff">🎓 trained at</text>
+      <text x="292" y="298" fill="#c9d1d9">MSc Data Analytics (ML &amp; AI) — NCI, Dublin</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" begin="3.3s" dur="0.6s" fill="freeze"/>
+      <text x="292" y="326" fill="#a855f7">📍 deployed in</text>
+      <text x="292" y="346" fill="#c9d1d9">Dublin, Ireland — fuelled by coffee (chai compatible)</text>
+    </g>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" begin="3.9s" dur="0.6s" fill="freeze"/>
+    <rect x="292" y="360" width="330" height="26" rx="13" fill="#0d2818" stroke="#00ffa3" stroke-width="1"/>
+    <circle cx="310" cy="373" r="5" fill="#00ffa3">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="324" y="377" font-size="12" fill="#00ffa3">status: open_to_opportunities — ready to deploy</text>
+  </g>
+
+  <line x1="280" y1="60" x2="280" y2="368" stroke="#30363d" stroke-width="1"/>
+  <rect x="292" y="60" width="584" height="2" fill="#00d4ff" opacity="0.5">
+    <animate attributeName="y" values="60;368;60" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

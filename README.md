@@ -87,7 +87,7 @@ model.generate(
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Vinithvk98/Vinithvk98/main/matrix-divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Vinithvk98/Vinithvk98/main/training-dashboard.svg" width="100%" alt="Training dashboard" />
 
 ## 🐍 Reinforcement Learning Agent (Contribution Snake)
 

@@ -81,13 +81,11 @@ model.generate(
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vinithvk98/Vinithvk98/main/github-metrics.svg" width="100%" alt="GitHub metrics" />
+<img src="https://raw.githubusercontent.com/Vinithvk98/Vinithvk98/main/training-dashboard.svg" width="100%" alt="Training dashboard" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinithvk98&bg_color=0d1117&color=00ffa3&line=a855f7&point=00d4ff&area=true&hide_border=true" width="100%" alt="Activity graph" />
 
 </div>
-
-<img src="https://raw.githubusercontent.com/Vinithvk98/Vinithvk98/main/training-dashboard.svg" width="100%" alt="Training dashboard" />
 
 ## 🐍 Reinforcement Learning Agent (Contribution Snake)
 

@@ -10,7 +10,7 @@
 
 **AI Engineer fine-tuned for Agentic AI, Python & Data — 5+ years in production**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Try_the_demo-Portfolio-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117)](https://vinithkumarportfolio-788f6.web.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Try_the_demo-Portfolio-0d1117?style=for-the-badge&labelColor=00d4ff&color=0d1117)](https://vinithkportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/🤝_Contact_maintainer-LinkedIn-0d1117?style=for-the-badge&labelColor=0A66C2&color=0d1117)](https://www.linkedin.com/in/vinith-kumar-g-p/)
 [![Email](https://img.shields.io/badge/📬_Open_issue-Email-0d1117?style=for-the-badge&labelColor=EA4335&color=0d1117)](mailto:vinithvkk050@gmail.com)
 

@@ -34,6 +34,8 @@
 
 | Benchmark | Task | Result |
 |-----------|------|--------|
+| [**SKU-Sentinel**](https://github.com/Vinithvk98/sku-sentinel) 📡 | Forecast governance engine — drift monitoring with per-SKU calibrated thresholds, 8-model forecasting bench, causal promo-uplift analysis; validated on real M5 Walmart data across 3 forecaster regimes | ✅ 86% recall · 83% precision vs ground truth |
+| [**NextMove**](https://github.com/Vinithvk98/nextmove) 🧾 | Prescriptive ordering engine — newsvendor economics, bootstrapped uncertainty, FIFO-with-expiry backtested P&L | ✅ +$100k profit vs naive · 4.5× less waste |
 | **AgentOrchestration-v1** 🤖 | Multi-agent AI platform — LangGraph orchestration, MCP tool-using agents, RAG pipelines, deterministic + LLM-as-judge evaluation harness, deployed on AWS | ✅ production-ready |
 | **FraudEngine-10M** 💳 | Real-time AI decisioning on AWS Lambda processing **10M+ daily transactions** | ✅ −50% ops overhead · −25% false positives |
 | **Release-Velocity** 🚀 | PyTest suites (85%+ coverage) + GitHub Actions CI/CD scaling AI services from POC to production | ✅ −40% release cycle time |

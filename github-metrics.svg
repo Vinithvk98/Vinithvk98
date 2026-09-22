@@ -34,11 +34,11 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ whoami</div><div class="stdout"><b>Vinith Kumar G P</b> registered=3y, uid=0578, gid=0
-  contributed to 10 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span></b>
+  contributed to 10 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#216e39">#</span><span style="color:#40c463">#</span></b>
   followed by <b>0</b> users
 </div>
 <div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  168</b> commits
+  <b>  169</b> commits
   <b>    0</b> pull requests reviewed
   <b>    0</b> pull requests opened
   <b>    0</b> issues opened
@@ -58,9 +58,9 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [#################   ] 81.15%
-<b>PYTHON      </b> [##                  ] 9.19 %
-<b>HTML        </b> [##                  ] 5.90 %
+<div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [#################   ] 81.08%
+<b>PYTHON      </b> [##                  ] 9.18 %
+<b>HTML        </b> [##                  ] 5.98 %
 <b>CSS         </b> [#                   ] 2.30 %
 <b>SCSS        </b> [#                   ] 1.10 %
 <b>JAVASCRIPT  </b> [#                   ] 0.35 %

@@ -58,12 +58,12 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [################    ] 79.24%
-<b>PYTHON      </b> [###                 ] 11.24%
-<b>HTML        </b> [##                  ] 5.85 %
+<div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [################    ] 79.02%
+<b>PYTHON      </b> [###                 ] 11.49%
+<b>HTML        </b> [##                  ] 5.83 %
 <b>CSS         </b> [#                   ] 2.24 %
-<b>SCSS        </b> [#                   ] 1.08 %
-<b>JAVASCRIPT  </b> [#                   ] 0.35 %
+<b>SCSS        </b> [#                   ] 1.07 %
+<b>JAVASCRIPT  </b> [#                   ] 0.34 %
 </div>
 
 </pre>

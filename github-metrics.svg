@@ -50,7 +50,7 @@
   <b>    7</b> repositories starred
   <b>    9</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 18 repositories - 16.2 MB
+<div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ ls -lh github/repositories</div><div class="stdout">Total 18 repositories - 16.3 MB
 -r--  <b>    7</b>  stargazers
 -r--  <b>    1</b>  fork
 -r--  <b>    9</b>  watchers
@@ -58,10 +58,10 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 </div>
-<div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [################    ] 79.02%
-<b>PYTHON      </b> [###                 ] 11.49%
-<b>HTML        </b> [##                  ] 5.83 %
-<b>CSS         </b> [#                   ] 2.24 %
+<div class="stdin"><span class="ps1-path">vinithvk98@metrics</span>:<span class="ps1-location">~</span>$ locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [################    ] 78.67%
+<b>PYTHON      </b> [###                 ] 11.88%
+<b>HTML        </b> [##                  ] 5.81 %
+<b>CSS         </b> [#                   ] 2.23 %
 <b>SCSS        </b> [#                   ] 1.07 %
 <b>JAVASCRIPT  </b> [#                   ] 0.34 %
 </div>
